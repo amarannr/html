@@ -10,7 +10,7 @@
 <h1 style="background-color:DodgerBlue;">Nama kucing saya sky</h1>
 
 <p style="background-color:Tomato;">
-Saya kangen kucing saya ya Allah mau pulang ke kalimantan tapi biaya tiketnya mahal mending buat saya beli makan di kanjat buat 1 tahun hhhhhhh
+Saya kangen kucing saya ya Allah mau pulang ke kalimantan tapi biaya tiketnya mahal mending buat saya beli makan di kanjat buat 1 tahun hhhhhhh fun fact: biaya ke singapura/malaysia/thailand LEBIH MURAH daripada ke kalimantan, apa saya harus pindah rumah aja ke negara tsb? biar kalau mau pulang kampung nggak stress mikirin biaya PP nya.............................
 </p>
 
 <h2 style="background-color:#ff9999;">Kangen kucing...</h2>
